@@ -13,6 +13,7 @@ class SecondRoute extends StatelessWidget {
             Text('Add widgets here'),
             Text('Add widgets here'),
             Text('Add widgets here'),
+            Text('Add widgets here'),
           ],
         ),
       ),
