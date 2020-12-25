@@ -11,6 +11,7 @@ class SecondRoute extends StatelessWidget {
             Text('Hello Page'),
             Text('Add widgets here'),
             Text('Add widgets here'),
+            Text('Add widgets here'),
           ],
         ),
       ),
