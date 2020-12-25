@@ -5,7 +5,12 @@ class SecondRoute extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Center(
-        child: Text('Second Page'),
+        child: Column(
+          children: [
+            Text('Second Page'),
+            Text('Hello Page'),
+          ],
+        ),
       ),
     );
   }
