@@ -39,7 +39,7 @@ class MyHomePage extends StatelessWidget {
                 onPressed: () {
                   print('clicked');
                   _firestore.collection("post").add({
-                    'title': 'Hello bitches',
+                    'title': 'Hello azeema',
                   });
                 },
               )
