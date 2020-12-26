@@ -33,7 +33,7 @@ class MyHomePage extends StatelessWidget {
           child: Column(
             children: [
                             
-              Text('Hello BITCHESSSSS!!!!!!'),
+              Text('Hello there!!!!!!'),
               FlatButton(
                 child: Text('Click me to test'),
                 onPressed: () {
