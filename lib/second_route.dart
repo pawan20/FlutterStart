@@ -9,13 +9,7 @@ class SecondRoute extends StatelessWidget {
         child: Column(
           children: [
             Text('Second Page'),
-            Text('Hello Page'),
-            Text('Add widgets here'),
-            Text('Add widgets here'),
-            Text('Add widgets here'),
-            Text('Add widgets here'),
-            Text('Add widgets here'),
-            Text('Add widgets here'),
+            
             
           ],
         ),
