@@ -4,6 +4,7 @@
 #Thisis test line2
 #Thisis test line3
 #Thisis test line4
+#Thisis test line6pc
 # CocoaPods analytics sends network stats synchronously affecting flutter build latency.
 ENV['COCOAPODS_DISABLE_STATS'] = 'true'
 
